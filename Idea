@@ -37,4 +37,6 @@ character 32x64
 hamster 32x32
 tiles 32x32
 
+buffs 64x64
+
 hintergrund 640*360
